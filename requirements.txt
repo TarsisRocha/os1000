@@ -1,10 +1,9 @@
-streamlit==3.13
+streamlit==1.32.2
 supabase
-supabase-py==2.4.6
+streamlit-aggrid
 pandas
 bcrypt
 plotly
-streamlit-aggrid
 fpdf
 pytz
 twilio
